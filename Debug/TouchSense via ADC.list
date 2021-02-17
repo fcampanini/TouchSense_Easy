@@ -557,7 +557,6 @@ static uint16_t TouchSense()
 
 08000668 <HAL_TIM_PeriodElapsedCallback>:
 
-
 void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
 {
  8000668:	b580      	push	{r7, lr}

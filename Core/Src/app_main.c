@@ -95,7 +95,6 @@ static uint16_t TouchSense()
 	return result;
 }
 
-
 void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
 {
 	  if (htim == &htim1)
